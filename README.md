@@ -4,7 +4,7 @@
 
 # 소개 :construction_worker:
 
-<img src="prople.jpg" width="250" height="250"/>
+<img src="https://github.com/junho1124/jino.dev/blob/main/prople.jpg?raw=true" width="250" height="250"/>
 
 >## 최준호
 > ### 요리하는 프로그래머 최준호 입니다 :fork_and_knife:
