@@ -10,10 +10,10 @@
 > ### 요리하는 프로그래머 최준호 입니다 :fork_and_knife:
 > 식생활과 관련된 프로그래밍으로 큰 꿈을 이뤄 보고 싶습니다 :smile:
 >
-><img src="email.png"> : wnsghqwe@gmail.com
+><img src="https://github.com/junho1124/jino.dev/blob/main/email.png?raw=true"> : wnsghqwe@gmail.com
 
 >## My SNS 
->[![Facebook](facebook.png)](https://www.facebook.com/wnsghqwe/) [![github](github.png)](https://github.com/junho1124/jino.dev.gita)
+>[![Facebook](https://github.com/junho1124/jino.dev/blob/main/facebook.png?raw=true)](https://www.facebook.com/wnsghqwe/) [![github](https://github.com/junho1124/jino.dev/blob/main/github.png?raw=true)](https://github.com/junho1124/jino.dev.gita)
 
 >## My Github Stats
 >[![junho's GitHub stats](https://github-readme-stats.vercel.app/api?username=junho1124)](https://github.com/junho1124/github-readme-stats)
@@ -36,7 +36,7 @@
 
 # 자격증 내역
 
-<img src="age.jpg">
+<img src="https://github.com/junho1124/jino.dev/blob/main/age.jpg?raw=true">
 
 - 정보통신기사 취득 목표로 학습중
    
@@ -45,10 +45,10 @@
  
 
 - ## Flutter
-    <img src="flutter.png">
+    <img src="https://github.com/junho1124/jino.dev/blob/main/flutter.png?raw=true">
 
 - ## VScode
-    <img src="VScode.png">
+    <img src="Vhttps://github.com/junho1124/jino.dev/blob/main/VScode.png?raw=true">
 
 # 사용 가능 언어 <img alt="dart" src="https://img.icons8.com/color/452/dart.png" width="32" height="32"/> <img art="HTML" src="https://icons-for-free.com/iconfiles/png/512/file+html+page+paper+icon-1320165845964400087.png" width="32" height="32"/> <img alt="JavaScript" src="https://cdn.pixabay.com/photo/2017/03/30/17/41/javascript-2189147_960_720.png" width="32" height="32"/>
 
